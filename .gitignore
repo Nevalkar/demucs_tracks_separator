@@ -1,0 +1,153 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+.env.*
+
+# Demucs and Audio Processing
+output/
+stems/
+separated/
+temp/
+*.wav
+*.mp3
+*.aiff
+*.flac
+*.m4a
+*.ogg
+!test.mp3
+
+# Logs and databases
+*.log
+logs/
+*.sqlite
+*.db
+
+# IDE - VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# IDE - PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# IDE - Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# IDE - Eclipse
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Distribution / packaging
+*.tar.gz
+*.tgz
+*.zip
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Environments
+.python-version
+pipenv.lock
+
+# Documentation
+docs/_build/
+docs/generated/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Model checkpoints and cache
+*.pth
+*.th
+*.pt
+.torch/
+.cache/
+model_cache/
+pretrained_models/
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
+tmp/
+
+# Large media files
+*.avi
+*.mov
+*.wmv
+*.mkv
+
+# Project specific
+!requirements.txt
+!README.md
+!LICENSE
+!.gitignore

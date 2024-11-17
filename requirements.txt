@@ -1,0 +1,7 @@
+torch>=2.0.0
+torchaudio>=2.0.0
+demucs>=4.0.0
+numpy>=1.20.0
+ffmpeg-python>=0.2.0
+tqdm>=4.65.0
+diffq>=0.2.3
