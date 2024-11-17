@@ -28,6 +28,7 @@ ENV/
 .env
 .venv
 .env.*
+pyvenv.cfg
 
 # Demucs and Audio Processing
 output/
