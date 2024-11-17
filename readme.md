@@ -97,7 +97,7 @@ vocals from your music files.
 
    ```bash
    git clone https://github.com/Nevalkar/demucs_tracks_separator.git
-   cd audio-track-separator
+   cd demucs_tracks_separator
    ```
 
 2. Create and activate a virtual environment (recommended):
