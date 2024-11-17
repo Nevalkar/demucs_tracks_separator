@@ -61,10 +61,9 @@ vocals from your music files.
 
    # Install required packages
    brew install ffmpeg
-   brew install sox
+   brew install soundfile sox
    brew install libsndfile
-   brew install portaudio
-   brew install cmake
+
 
    # Install Apple Command Line Tools if not already installed
    xcode-select --install
