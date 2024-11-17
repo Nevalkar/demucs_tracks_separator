@@ -96,8 +96,8 @@ vocals from your music files.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/audio-track-separator.git
-   cd audio-track-separator
+   git clone https://github.com/Nevalkar/demucs_tracks_separator.git
+   cd demucs_tracks_separator
    ```
 
 2. Create and activate a virtual environment (recommended):
